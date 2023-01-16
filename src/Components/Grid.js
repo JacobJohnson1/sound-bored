@@ -13,7 +13,7 @@ function Grid () {
     }
 
     return (
-        <div id='mainContainer'>
+        <div class="grid">
             {rows}
         </div >
     );
